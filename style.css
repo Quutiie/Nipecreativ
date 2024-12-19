@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(219, 202, 205);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+}
